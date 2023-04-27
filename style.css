@@ -1,0 +1,19 @@
+h3
+{
+    font-size: 25x !important;
+}
+.btn-success:hover
+{
+    background-color: #4179d9;
+}
+
+  canvas {
+    animation-name: Baibhav;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes example {
+    from {box-shadow: 1px 1px 38px #e40d63;}
+    to {box-shadow: 1px 1px 38px #c21930; }
+  }
